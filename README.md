@@ -47,7 +47,7 @@ NLP-Intent_Chatbot/
 
 1. **Clone the repository** (or navigate to the project directory):
    ```bash
-   cd "NLP-Intent_Chatbot - Copy"
+   cd "NLP-Intent_Chatbot"
    ```
 
 2. **Create a Virtual Environment** (Recommended):
